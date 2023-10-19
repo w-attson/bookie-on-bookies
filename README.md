@@ -97,8 +97,8 @@ Finally, the outcome of the analysis will indicate if the user has selected a su
 * TensorFlow
 
 ## Usage
-Clone the project repository from GitHub. 
-Install the required dependencies using pip/conda installs.
-Upload the datasets in the appropriate directory.
-Run the Jupyter notebook or Python script to execute the project steps.
+Clone the project repository from GitHub.\
+Install the required dependencies using pip/conda installs.\
+Upload the datasets in the appropriate directory.\
+Run the Jupyter notebook or Python script to execute the project steps.\
 By completing this project, we have gained valuable experience in using Pandas, etc., to clean, explore, and derive insights from real-world data.
